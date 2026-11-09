@@ -1,4 +1,4 @@
-> Source: *PIN Vault iOS Development Specification — Draft v0.2 (22 Oct 2026), review-highlights edition*, converted from .docx. Items highlighted for Lee/Brian review in the original are discussion points, not agreed decisions. See [DECISIONS.md](DECISIONS.md).
+> Source: *PIN Vault iOS Development Specification — Draft v0.2 (22 Oct 2026), review-highlights edition*, converted from .docx. Items highlighted for Lee/Brian review in the original are discussion points, not agreed decisions. The decision register is in Section 11 and the open questions are in Appendix A §16.
 
 # PIN Vault — iOS Development Specification
 

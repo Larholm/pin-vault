@@ -9,6 +9,7 @@ Native iOS implementation of PIN Vault, based on the Android reference (v5, comm
 
 ```bash
 swift build
+swift test
 ```
 
 Open the folder in Xcode (File › Open… › select the repo) to work on the package. The iOS app target hasn't been created yet.
